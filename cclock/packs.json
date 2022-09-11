@@ -10,6 +10,12 @@
     },
     "v2": {
       "url": "https://waveyd.github.io/cclock/v2.f9272ffe3d52d036695297f62a89bf89.pk",
+      "hash": "f9272ffe3d52d036695297f62a89bf89",
+      "published": "2022-09-11T14:25:00Z",
+      "enabled": true
+    },
+    "v3": {
+      "url": "https://waveyd.github.io/cclock/v3.4fb045151d4b921c55ed43ce63d19264.pk",
       "published": "2022-09-11T14:25:00Z",
       "enabled": true
     },
