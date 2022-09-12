@@ -3,73 +3,73 @@
   "updated": "2022-09-12T115:50:00Z",
   "packs": {
     "v1": {
-      "url": "https://waveyd.github.io/cclock/v1.d88739b8da137fac300441ca263735ed.pk",
+      "url": "https://waveyd.github.io/cclock/pack/v1.d88739b8da137fac300441ca263735ed.pk",
       "hash": "d88739b8da137fac300441ca263735ed",
       "published": "2022-09-11T14:20:00Z",
       "enabled": false
     },
     "v2": {
-      "url": "https://waveyd.github.io/cclock/v2.f9272ffe3d52d036695297f62a89bf89.pk",
+      "url": "https://waveyd.github.io/cclock/pack/v2.f9272ffe3d52d036695297f62a89bf89.pk",
       "hash": "f9272ffe3d52d036695297f62a89bf89",
       "published": "2022-09-11T14:25:00Z",
       "enabled": false
     },
     "v3": {
-      "url": "https://waveyd.github.io/cclock/v3.4fb045151d4b921c55ed43ce63d19264.pk",
+      "url": "https://waveyd.github.io/cclock/pack/v3.4fb045151d4b921c55ed43ce63d19264.pk",
       "hash": "4fb045151d4b921c55ed43ce63d19264",
       "published": "2022-09-11T14:25:00Z",
       "enabled": false
     },
     "v4": {
-      "url": "https://waveyd.github.io/cclock/v4.cbda4dd902b40e27212885f26a1fc949.pk",
+      "url": "https://waveyd.github.io/cclock/pack/v4.cbda4dd902b40e27212885f26a1fc949.pk",
       "hash": "cbda4dd902b40e27212885f26a1fc949",
       "published": "2022-09-12T09:00:00Z",
       "enabled": true
     },
     "v5": {
-      "url": "https://waveyd.github.io/cclock/v5.ee7327ff29f4b1224e01ccd3db4b1e12.pk",
+      "url": "https://waveyd.github.io/cclock/pack/v5.ee7327ff29f4b1224e01ccd3db4b1e12.pk",
       "hash": "ee7327ff29f4b1224e01ccd3db4b1e12",
       "published": "2022-09-12T09:50:00Z",
       "enabled": true
     },
     "v6": {
-      "url": "https://waveyd.github.io/cclock/v6.eac628fd0b28cdbe579d3b5d9273b102.pk",
+      "url": "https://waveyd.github.io/cclock/pack/v6.eac628fd0b28cdbe579d3b5d9273b102.pk",
       "hash": "eac628fd0b28cdbe579d3b5d9273b102",
       "published": "2022-09-12T09:50:00Z",
       "enabled": true
     },
     "v7": {
-      "url": "https://waveyd.github.io/cclock/v7.5d5bd8f7899af32a6c179d48e3608eff.pk",
+      "url": "https://waveyd.github.io/cclock/pack/v7.5d5bd8f7899af32a6c179d48e3608eff.pk",
       "hash": "5d5bd8f7899af32a6c179d48e3608eff",
       "published": "2022-09-12T12:27:00Z",
       "enabled": true
     },
     "v8": {
-      "url": "https://waveyd.github.io/cclock/v8.40c03d9dd815cf9a59b7d5f15deeae75.pk",
+      "url": "https://waveyd.github.io/cclock/pack/v8.40c03d9dd815cf9a59b7d5f15deeae75.pk",
       "hash": "40c03d9dd815cf9a59b7d5f15deeae75",
       "published": "2022-09-12T12:33:00Z",
       "enabled": true
     },
     "v9": {
-      "url": "https://waveyd.github.io/cclock/v9.d476b2c14fc262b35c8b89ceb790fb1b.pk",
+      "url": "https://waveyd.github.io/cclock/pack/v9.d476b2c14fc262b35c8b89ceb790fb1b.pk",
       "hash": "d476b2c14fc262b35c8b89ceb790fb1b",
       "published": "2022-09-12T12:57:00Z",
       "enabled": true
     },
     "v10": {
-      "url": "https://waveyd.github.io/cclock/v10.7846bf45bb2a981f63fd679521c6b8c7.pk",
+      "url": "https://waveyd.github.io/cclock/pack/v10.7846bf45bb2a981f63fd679521c6b8c7.pk",
       "hash": "7846bf45bb2a981f63fd679521c6b8c7",
       "published": "2022-09-12T14:54:00Z",
       "enabled": false
     },
     "v11": {
-      "url": "https://waveyd.github.io/cclock/v11.7472d52aebdd6fef5778b460a2409cd2.pk",
+      "url": "https://waveyd.github.io/cclock/pack/v11.7472d52aebdd6fef5778b460a2409cd2.pk",
       "hash": "7472d52aebdd6fef5778b460a2409cd2",
       "published": "2022-09-12T15:29:00Z",
       "enabled": true
     },
     "v12": {
-      "url": "https://waveyd.github.io/cclock/v12.7846bf45bb2a981f63fd679521c6b8c7.pk",
+      "url": "https://waveyd.github.io/cclock/pack/v12.7846bf45bb2a981f63fd679521c6b8c7.pk",
       "hash": "7846bf45bb2a981f63fd679521c6b8c7",
       "published": "2022-09-12T15:49:00Z",
       "enabled": true
