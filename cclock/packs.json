@@ -1,6 +1,6 @@
 {
   "name": "Action Clock by climateclock.world",
-  "updated": "2022-09-12T09:55:00Z",
+  "updated": "2022-09-12T12:30:00Z",
   "packs": {
     "v1": {
       "url": "https://waveyd.github.io/cclock/v1.d88739b8da137fac300441ca263735ed.pk",
@@ -36,6 +36,12 @@
       "url": "https://waveyd.github.io/cclock/v6.eac628fd0b28cdbe579d3b5d9273b102.pk",
       "hash": "eac628fd0b28cdbe579d3b5d9273b102",
       "published": "2022-09-12T09:50:00Z",
+      "enabled": true
+    },
+    "v7": {
+      "url": "https://waveyd.github.io/cclock/v7.5d5bd8f7899af32a6c179d48e3608eff.pk",
+      "hash": "5d5bd8f7899af32a6c179d48e3608eff",
+      "published": "2022-09-12T12:27:00Z",
       "enabled": true
     },
   }
