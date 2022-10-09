@@ -3,16 +3,16 @@
   "updated": "2022-10-09T13:30:00Z",
   "packs": {
     "v1-v0": {
-      "url": "https://waveyd.github.io/cclock/pack/v1-v0.a5c1045f95037dacc6034f42aeed45ef.pk",
       "hash": "a5c1045f95037dacc6034f42aeed45ef",
       "published": "2022-10-09T17:05:00Z",
       "enabled": true
     },
 
     "v2-v0": {
+      "url": "https://waveyd.github.io/cclock/pack/v2-v0.790b4dfb3d40e9a37b54b82ebdbd8b50.pk",
       "hash": "790b4dfb3d40e9a37b54b82ebdbd8b50",
       "published": "2022-10-09T17:50:00Z",
-      "enabled": true
+      "enabled": false
     },
   }
 }
