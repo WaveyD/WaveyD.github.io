@@ -8,5 +8,14 @@
       "published": "2022-10-09T17:05:00Z",
       "enabled": true
     },
+
+    "v2-v0": {
+      "url": "https://waveyd.github.io/cclock/pack/v2-v0.790b4dfb3d40e9a37b54b82ebdbd8b50.pk",
+      "hash": "790b4dfb3d40e9a37b54b82ebdbd8b50",
+      "published": "2022-10-09T17:50:00Z",
+      "enabled": true
+    },
   }
 }
+
+
