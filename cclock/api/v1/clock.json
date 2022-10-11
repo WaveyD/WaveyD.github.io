@@ -1,1 +1,180 @@
-{"data":{"api_version":"v1","config":{"device":"generic","display":{"deadline":{"color_primary":"#eb1c23","color_secondary":"#eb1c23"},"lifeline":{"color_primary":"#4aa1cc","color_secondary":"#4aa1cc"},"neutral":{"color_primary":"#ffffff","color_secondary":"#ffffff"},"newsfeed":{"separator":" | "},"timer":{"unit_labels":{"day":["day","d"],"days":["days","d"],"year":["year","yr","y"],"years":["years","yrs","y"]}}},"langs":["en","pt"],"modules":["carbon_deadline_1","renewables_1","indigenous_land_1","loss_damage_g20_debt","green_climate_fund_1","newsfeed_1"]},"modules":{"carbon_deadline_1":{"description":"Time to act before we reach irreversible 1.5\u00b0C global temperature rise","flavor":"deadline","labels":["time left to limit global warming to 1.5\u00b0C","time left before 1.5\u00b0C global warming","Time to Act"],"lang":"en","timestamp":"2029-07-22T16:00:00+00:00","type":"timer","update_interval_seconds":86400},"green_climate_fund_1":{"description":"USD in the Green Climate Fund","flavor":"lifeline","growth":"linear","initial":9.52,"labels":["Green Climate Fund","Climate Fund","GCF"],"lang":"en","rate":0,"resolution":0.01,"timestamp":"2021-09-20T00:00:00+00:00","type":"value","unit_labels":["$B"],"update_interval_seconds":86400},"indigenous_land_1":{"description":"Despite threats and lack of recognition, indigenous people are protecting this much land.","flavor":"lifeline","growth":"linear","initial":43.5,"labels":["land protected by indigenous people","INdigenous protected land","indigenous protected"],"lang":"en","rate":0,"resolution":0.1,"timestamp":"2021-10-01T00:00:00+00:00","type":"value","unit_labels":["M km\u00b2"],"update_interval_seconds":86400},"loss_damage_g20_debt":{"description":"The Climate Clock\u2019s Loss and Damage Lifeline tracks the climate debt (in $US) that wealthy, high-emitting G20 countries owe for the devastating impacts their excessive carbon emissions have caused to others, especially those in \"developing\" countries. Paying for Loss & Damage is a key climate lifeline, a clear climate solution to help the world meet its necessary climate goals.","flavor":"lifeline","growth":"linear","initial":29.754,"labels":["Loss & Damage owed by G20 nations","G20 Loss & Damage","Loss & Damage"],"lang":"en","rate":4.71408520521309e-08,"resolution":1e-08,"timestamp":"2020-01-01T00:00:00+00:00","type":"value","unit_labels":["$T"],"update_interval_seconds":900},"newsfeed_1":{"description":"A newsfeed of hope: good news about climate change.","flavor":"lifeline","lang":"en","newsfeed":[{"date":"2022-09-26T14:48:23+00:00","headline":"US ratifies global treaty curbing HFCs","headline_original":"US ratifies global treaty curbing climate super-pollutants","link":"https://www.washingtonpost.com/climate-solutions/2022/09/21/kigali-amendment-senate-super-pollutants-climate/?utm_campaign=Carbon%20Brief%20Daily%20Briefing&utm_content=20220927&utm_medium=email&utm_source=Revue%20Daily ","source":"The Washington Post","summary":""},{"date":"2022-09-26T14:48:23+00:00","headline":"U.S. EPA launches environmental justice office","headline_original":"U.S. EPA launches environmental justice office","link":"https://www.reuters.com/business/environment/us-epa-launches-environmental-justice-office-2022-09-25/?utm_campaign=Carbon%20Brief%20Daily%20Briefing&utm_content=20220927&utm_medium=email&utm_source=Revue%20Daily ","source":"Reuters","summary":""},{"date":"2022-09-23T14:48:23+00:00","headline":"Barbados\u2019 PM builds global coalition to scale-up finance for the climate frontlines","headline_original":"Mia Mottley builds global coalition to make financial system fit for climate","link":"https://climatechangenews.com/2022/09/23/mia-mottley-builds-global-coalition-to-make-financial-system-fit-for-climate-action/ ","source":"Climate Home News","summary":""},{"date":"2022-09-22T14:48:23+00:00","headline":"Amtrak pledges net-zero by 2045","headline_original":"Amtrak pledges net-zero greenhouse gas emissions by 2045","link":"https://www.washingtonpost.com/transportation/2022/09/22/amtrak-greenhouse-gas-emissions-pledge/?utm_campaign=Carbon%20Brief%20Daily%20Briefing&utm_content=20220927&utm_medium=email&utm_source=Revue%20Daily","source":"The Washington Post ","summary":""},{"date":"2022-09-21T14:48:23+00:00","headline":"Endangered lagoon in Spain granted legal status as person","headline_original":"Endangered Mar Menor lagoon in Spain granted legal status as a person","link":"https://www.theguardian.com/world/2022/sep/21/endangered-mar-menor-lagoon-in-spain-granted-legal-status-as-a-person?CMP=Share_iOSApp_Other ","source":"The Guardian","summary":""},{"date":"2022-09-21T14:48:23+00:00","headline":"Tiwi traditional owner wins legal battle against gas project","headline_original":"Tiwi traditional owner wins legal challenge to Santos Barossa Gas Project","link":"https://www.edo.org.au/2022/09/21/tiwi-traditional-owner-wins-legal-challenge-to-santos-barossa-gas-project/#:~:text=September%2021%2C%202022-,Tiwi%20Traditional%20Owner%20wins%20legal%20challenge%20to%20Santos%20Barossa%20Gas,north%20of%20the%20Tiwi%20Islands. ","source":"Environmental Defenders Office","summary":""},{"date":"2022-09-20T14:48:23+00:00","headline":"Denmark becomes first country to pledge L&D finance","headline_original":"Denmark becomes first country to pledge \u2018loss and damage\u2019 finance","link":"https://climatechangenews.com/2022/09/20/denmark-first-country-pledge-loss-and-damage-finance/ ","source":"Climate Home News","summary":""},{"date":"2022-09-12T14:48:23+00:00","headline":"China\u2019s largest desert solar panel starts construction","headline_original":"China\u2019s largest desert solar panel base in northwestern Ningxia starts construction","link":"https://www.globaltimes.cn/page/202209/1275050.shtml?utm_campaign=Carbon%20Brief%20Daily%20Briefing&utm_content=20220914&utm_medium=email&utm_source=Revue%20Daily ","source":"Global Times","summary":""},{"date":"2022-09-12T14:48:23+00:00","headline":"A China province launched an $87 billion plan to expand clean energy ","headline_original":"China Rust Belt Province Plans $87 billion clean energy overhaul","link":"https://www.bloomberg.com/news/articles/2022-09-13/china-rust-belt-province-plans-87-billion-clean-energy-overhaul?sref=Oz9Q3OZU&utm_campaign=Carbon%20Brief%20Daily%20Briefing&utm_content=20220914&utm_medium=email&utm_source=Revue%20Daily&leadSource=uverify%20wall ","source":"Bloomberg","summary":""}],"type":"newsfeed","update_interval_seconds":3600},"renewables_1":{"description":"The percentage share of global energy consumption currently generated by renewable resources (solar, wind, hydroelectricity, wave and tidal, and bioenergy).","flavor":"lifeline","growth":"linear","initial":11.4,"labels":["world's energy from renewables","global renewable energy","renewables"],"lang":"en","rate":2.0428359571070087e-08,"resolution":1e-09,"timestamp":"2020-01-01T00:00:00+00:00","type":"value","unit_labels":["%"],"update_interval_seconds":86400}}},"status":"success"}
+{
+  "data": {
+    "api_version": "v1",
+    "config": {
+      "device": "generic",
+      "display": {
+        "deadline": {
+          "color_primary": "#eb1c23",
+          "color_secondary": "#eb1c23"
+        },
+        "lifeline": {
+          "color_primary": "#4aa1cc",
+          "color_secondary": "#4aa1cc"
+        },
+        "neutral": {
+          "color_primary": "#ffffff",
+          "color_secondary": "#ffffff"
+        },
+        "newsfeed": {
+          "separator": " | "
+        },
+        "timer": {
+          "unit_labels": {
+            "day": [
+              "day",
+              "d"
+            ],
+            "days": [
+              "days",
+              "d"
+            ],
+            "year": [
+              "year",
+              "yr",
+              "y"
+            ],
+            "years": [
+              "years",
+              "yrs",
+              "y"
+            ]
+          }
+        }
+      },
+      "langs": [
+        "en",
+        "pt"
+      ],
+      "modules": [
+        "carbon_deadline_1",
+        "renewables_1",
+        "indigenous_land_1",
+        "loss_damage_g20_debt",
+        "green_climate_fund_1",
+        "newsfeed_1"
+      ]
+    },
+    "modules": {
+      "carbon_deadline_1": {
+        "description": "Time to act before we reach irreversible 1.5°C global temperature rise",
+        "flavor": "deadline",
+        "labels": [
+          "time left to limit global warming to 1.5°C",
+          "time left before 1.5°C global warming",
+          "Time to Act"
+        ],
+        "lang": "en",
+        "timestamp": "2029-07-22T16:00:00+00:00",
+        "type": "timer",
+        "update_interval_seconds": 86400
+      },
+      "green_climate_fund_1": {
+        "description": "USD in the Green Climate Fund",
+        "flavor": "lifeline",
+        "growth": "linear",
+        "initial": 9.52,
+        "labels": [
+          "Green Climate Fund",
+          "Climate Fund",
+          "GCF"
+        ],
+        "lang": "en",
+        "rate": 0,
+        "resolution": 0.01,
+        "timestamp": "2021-09-20T00:00:00+00:00",
+        "type": "value",
+        "unit_labels": [
+          "$B"
+        ],
+        "update_interval_seconds": 86400
+      },
+      "indigenous_land_1": {
+        "description": "Despite threats and lack of recognition, indigenous people are protecting this much land.",
+        "flavor": "lifeline",
+        "growth": "linear",
+        "initial": 43.5,
+        "labels": [
+          "land protected by indigenous people",
+          "indigenous protected land",
+          "indigenous protected"
+        ],
+        "lang": "en",
+        "rate": 0,
+        "resolution": 0.1,
+        "timestamp": "2021-10-01T00:00:00+00:00",
+        "type": "value",
+        "unit_labels": [
+          "M km²"
+        ],
+        "update_interval_seconds": 86400
+      },
+      "loss_damage_g20_debt": {
+        "description": "The Climate Clock’s Loss and Damage Lifeline tracks the climate debt (in $US) that wealthy, high-emitting G20 countries owe for the devastating impacts their excessive carbon emissions have caused to others, especially those in \"developing\" countries. Paying for Loss & Damage is a key climate lifeline, a clear climate solution to help the world meet its necessary climate goals.",
+        "flavor": "lifeline",
+        "growth": "linear",
+        "initial": 29.754,
+        "labels": [
+          "Loss & Damage owed by G20 nations",
+          "G20 Loss & Damage",
+          "Loss & Damage"
+        ],
+        "lang": "en",
+        "rate": 4.71408520521309e-08,
+        "resolution": 1e-08,
+        "timestamp": "2020-01-01T00:00:00+00:00",
+        "type": "value",
+        "unit_labels": [
+          "$T"
+        ],
+        "update_interval_seconds": 900
+      },
+      "newsfeed_1": {
+        "description": "A newsfeed of hope: good news about climate change.",
+        "flavor": "lifeline",
+        "lang": "en",
+        "newsfeed": [
+          {
+            "date": "2022-09-26T14:48:23+00:00",
+            "headline": "US ratifies global treaty curbing HFCs",
+            "headline_original": "US ratifies global treaty curbing climate super-pollutants",
+            "link": "https://www.washingtonpost.com/climate-solutions/2022/09/21/kigali-amendment-senate-super-pollutants-climate/?utm_campaign=Carbon%20Brief%20Daily%20Briefing&utm_content=20220927&utm_medium=email&utm_source=Revue%20Daily ",
+            "source": "The Washington Post",
+            "summary": ""
+          },
+          {
+            "date": "2022-09-26T14:48:23+00:00",
+            "headline": "Test headline text",
+            "headline_original": "Test headline text original",
+            "link": "https://www.reuters.com/business/environment/us-epa-launches-environmental-justice-office-2022-09-25/?utm_campaign=Carbon%20Brief%20Daily%20Briefing&utm_content=20220927&utm_medium=email&utm_source=Revue%20Daily ",
+            "source": "WaveyD",
+            "summary": ""
+          }
+        ],
+        "type": "newsfeed",
+        "update_interval_seconds": 3600
+      },
+      "renewables_1": {
+        "description": "The percentage share of global energy consumption currently generated by renewable resources (solar, wind, hydroelectricity, wave and tidal, and bioenergy).",
+        "flavor": "lifeline",
+        "growth": "linear",
+        "initial": 11.4,
+        "labels": [
+          "world's energy from renewables",
+          "global renewable energy",
+          "renewables"
+        ],
+        "lang": "en",
+        "rate": 2.0428359571070087e-08,
+        "resolution": 1e-09,
+        "timestamp": "2020-01-01T00:00:00+00:00",
+        "type": "value",
+        "unit_labels": [
+          "%"
+        ],
+        "update_interval_seconds": 86400
+      }
+    }
+  },
+  "status": "success"
+}
