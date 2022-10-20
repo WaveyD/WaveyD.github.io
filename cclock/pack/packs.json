@@ -1,35 +1,13 @@
 {
   "name": "Action Clock by climateclock.world",
-  "updated": "2022-10-09T13:30:00Z",
+  "updated": "2022-10-20T17:45:00Z",
   "packs": {
     "v1-v0": {
-      "url": "https://waveyd.github.io/cclock/pack/v1-v0.a5c1045f95037dacc6034f42aeed45ef.pk",
-      "hash": "a5c1045f95037dacc6034f42aeed45ef",
-      "published": "2022-10-09T17:05:00Z",
-      "enabled": false
+      "url": "https://waveyd.github.io/cclock/pack/v1-v0.de9dd5dbaf9cfbbf4a5ad73713896f2f.pk",
+      "hash": "de9dd5dbaf9cfbbf4a5ad73713896f2f",
+      "published": "2022-10-20T17:45:00Z",
+      "enabled": true
     },
-
-    "v2-v0": {
-      "url": "https://waveyd.github.io/cclock/pack/v2-v0.790b4dfb3d40e9a37b54b82ebdbd8b50.pk",
-      "hash": "790b4dfb3d40e9a37b54b82ebdbd8b50",
-      "published": "2022-10-09T17:50:00Z",
-      "enabled": false
-    },
-
-    "v3-v0": {
-      "url": "https://waveyd.github.io/cclock/pack/v3-v0.4aae4bc60984d8c7af0327d105df3efe.pk",
-      "hash": "4aae4bc60984d8c7af0327d105df3efe",
-      "published": "2022-10-09T20:55:00Z",
-      "enabled": false
-    },
-
-    "v4-v0": {
-      "url": "https://waveyd.github.io/cclock/pack/v4-v0.d3dce3fa961eb72bf02b000f57c3325a.pk",
-      "hash": "d3dce3fa961eb72bf02b000f57c3325a",
-      "published": "2022-10-09T21:05:00Z",
-      "enabled": false
-    },
-
   }
 }
 
