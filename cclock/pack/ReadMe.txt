@@ -6,3 +6,4 @@ v3-v0   rc0.5       Update version number text to V3
 v4-v0   rc0.5       Update version number text to V4
 v5-v0   rc0.5       Update version number text to V5
 v6-v0   rc0.5       This version causes a software crash
+v7      rc0.5       Update version number text to V7
