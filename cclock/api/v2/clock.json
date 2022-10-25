@@ -1,0 +1,204 @@
+{
+  "data": {
+    "api_version": "v2",
+    "config": {
+      "device": "generic",
+      "display": {
+        "deadline": {
+          "color_primary": "#eb1c23",
+          "color_secondary": "#eb1c23"
+        },
+        "lifeline": {
+          "color_primary": "#4aa1cc",
+          "color_secondary": "#4aa1cc"
+        },
+        "neutral": {
+          "color_primary": "#ffffff",
+          "color_secondary": "#ffffff"
+        },
+        "newsfeed": {
+          "separator": " | "
+        },
+        "timer": {
+          "unit_labels": {
+            "day": [
+              "day",
+              "d"
+            ],
+            "days": [
+              "days",
+              "d"
+            ],
+            "year": [
+              "year",
+              "yr",
+              "y"
+            ],
+            "years": [
+              "years",
+              "yrs",
+              "y"
+            ]
+          }
+        }
+      },
+      "langs": [
+        "en",
+        "pt"
+      ],
+      "modules": [
+        "carbon_deadline_1",
+        "renewables_1",
+        "indigenous_land_1",
+        "loss_damage_g20_debt",
+        "green_climate_fund_1",
+        "newsfeed_1"
+      ]
+    },
+    "modules": {
+      "carbon_deadline_1": {
+        "description": "Time to act before we reach irreversible 1.5°C global temperature rise",
+        "flavor": "deadline",
+        "labels": [
+          "time left to limit global warming to 1.5°C",
+          "time left before 1.5°C global warming",
+          "Time to Act"
+        ],
+        "lang": "en",
+        "timestamp": "2029-07-22T16:00:00+00:00",
+        "type": "timer",
+        "update_interval_seconds": 86400
+      },
+      "green_climate_fund_1": {
+        "decimals": 2,
+        "description": "USD in the Green Climate Fund",
+        "flavor": "lifeline",
+        "growth": "linear",
+        "initial": 9.52,
+        "labels": [
+          "Green Climate Fund",
+          "Climate Fund",
+          "GCF"
+        ],
+        "lang": "en",
+        "rate": 0,
+        "resolution": 0.01,
+        "shift": 2,
+        "shifted_initial": "952",
+        "shifted_rate": "0",
+        "timestamp": "2021-09-20T00:00:00+00:00",
+        "type": "value",
+        "unit_labels": [
+          "$B"
+        ],
+        "update_interval_seconds": 86400
+      },
+      "indigenous_land_1": {
+        "decimals": 1,
+        "description": "Despite threats and lack of recognition, indigenous people are protecting this much land.",
+        "flavor": "lifeline",
+        "growth": "linear",
+        "initial": 43.5,
+        "labels": [
+          "land protected by indigenous people",
+          "indigenous protected land",
+          "indigenous protected"
+        ],
+        "lang": "en",
+        "rate": 0,
+        "resolution": 0.1,
+        "shift": 1,
+        "shifted_initial": "435",
+        "shifted_rate": "0",
+        "timestamp": "2021-10-01T00:00:00+00:00",
+        "type": "value",
+        "unit_labels": [
+          "M km²"
+        ],
+        "update_interval_seconds": 86400
+      },
+      "loss_damage_g20_debt": {
+        "decimals": 8,
+        "description": "The Climate Clock’s Loss and Damage Lifeline tracks the climate debt (in $US) that wealthy, high-emitting G20 countries owe for the devastating impacts their excessive carbon emissions have caused to others, especially those in \"developing\" countries. Paying for Loss & Damage is a key climate lifeline, a clear climate solution to help the world meet its necessary climate goals.",
+        "flavor": "lifeline",
+        "growth": "linear",
+        "initial": 29.754,
+        "labels": [
+          "Loss & Damage owed by G20 nations",
+          "G20 Loss & Damage",
+          "Loss & Damage"
+        ],
+        "lang": "en",
+        "rate": 4.71408520521309e-08,
+        "resolution": 1e-08,
+        "shift": 22,
+        "shifted_initial": "297540000000000000000000",
+        "shifted_rate": "471408520521309",
+        "timestamp": "2020-01-01T00:00:00+00:00",
+        "type": "value",
+        "unit_labels": [
+          "$T"
+        ],
+        "update_interval_seconds": 900
+      },
+      "newsfeed_1": {
+        "description": "A newsfeed of hope: good news about climate change.",
+        "flavor": "lifeline",
+        "lang": "en",
+        "newsfeed": [
+          {
+            "date": "2022-10-11T14:48:23+00:00",
+            "headline": "HEADLINE #1",
+            "headline_original": "Stellantis announces ‘Circular Economy’ business to drive revenue, decarbonization",
+            "link": "https://www.autoblog.com/2022/10/11/stellantis-circular-economy-buisness-announcement/ ",
+            "source": "Autoblog",
+            "summary": ""
+          },
+          {
+            "date": "2022-10-10T14:48:23+00:00",
+            "headline": "HEADLINE #2",
+            "headline_original": "Renewables have saved 230 million tonnes of CO2 emissions so far in 2022",
+            "link": "https://www.euronews.com/green/2022/10/06/rise-of-renewable-energy-has-prevented-230-million-tonnes-of-co2-emissions-so-far-this-yea ",
+            "source": "Euronews.green",
+            "summary": ""
+          },
+          {
+            "date": "2022-09-26T14:48:23+00:00",
+            "headline": "U.S. EPA launches environmental justice office",
+            "headline_original": "U.S. EPA launches environmental justice office",
+            "link": "https://www.reuters.com/business/environment/us-epa-launches-environmental-justice-office-2022-09-25/?utm_campaign=Carbon%20Brief%20Daily%20Briefing&utm_content=20220927&utm_medium=email&utm_source=Revue%20Daily ",
+            "source": "Reuters",
+            "summary": ""
+          }
+        ],
+        "type": "newsfeed",
+        "update_interval_seconds": 3600
+      },
+      "renewables_1": {
+        "decimals": 9,
+        "description": "The percentage share of global energy consumption currently generated by renewable resources (solar, wind, hydroelectricity, wave and tidal, and bioenergy).",
+        "flavor": "lifeline",
+        "growth": "linear",
+        "initial": 11.4,
+        "labels": [
+          "world's energy from renewables",
+          "global renewable energy",
+          "renewables"
+        ],
+        "lang": "en",
+        "rate": 2.0428359571070087e-08,
+        "resolution": 1e-09,
+        "shift": 24,
+        "shifted_initial": "11400000000000000000000000",
+        "shifted_rate": "20428359571070087",
+        "timestamp": "2020-01-01T00:00:00+00:00",
+        "type": "value",
+        "unit_labels": [
+          "%"
+        ],
+        "update_interval_seconds": 86400
+      }
+    }
+  },
+  "status": "success"
+}
