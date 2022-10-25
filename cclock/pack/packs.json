@@ -10,6 +10,13 @@
       "enabled": true
     },
 
+    "v2-v0": {
+      "url": "https://waveyd.github.io/cclock/pack/v2-v0.ad27e506a11759703036706ae639b7e0.pk",
+      "hash": "ad27e506a11759703036706ae639b7e0",
+      "published": "2022-10-25T13:40:00Z",
+      "enabled": true
+    },
+
 
   }
 }
