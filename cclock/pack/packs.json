@@ -7,7 +7,7 @@
       "url": "https://waveyd.github.io/cclock/pack/v1-v0.22a357d1a156e36b975aad20e1e0894e.pk",
       "hash": "22a357d1a156e36b975aad20e1e0894e",
       "published": "2022-10-25T13:15:00Z",
-      "enabled": true
+      "enabled": false
     },
 
     "v2-v0": {
@@ -17,6 +17,12 @@
       "enabled": false
     },
 
+    "v8": {
+      "url": "https://waveyd.github.io/cclock/pack/v8.25bdcdd57eb39c95a4bf453e400bb4e8.pk",
+      "hash": "25bdcdd57eb39c95a4bf453e400bb4e8",
+      "published": "2024-03-07T15:35:14Z",
+      "enabled": true
+    },
 
   }
 }
