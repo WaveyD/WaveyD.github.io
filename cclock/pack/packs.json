@@ -17,7 +17,7 @@
       "enabled": false
     },
 
-    "v8": {
+    "v8": 
       "url": "https://waveyd.github.io/cclock/pack/v8.25bdcdd57eb39c95a4bf453e400bb4e8.pk",
       "hash": "25bdcdd57eb39c95a4bf453e400bb4e8",
       "published": "2024-03-07T15:35:14Z",
