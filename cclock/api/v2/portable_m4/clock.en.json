@@ -108,7 +108,7 @@
                 "resolution": 1,
                 "rate": 0,
                 "labels": [
-                    "REGENERATIVE Agriculture",
+                    "Regenerative Agriculture",
                     "Regen Agriculture",
                     "Regenerative Ag",
                     "Regen Ag"
@@ -286,9 +286,9 @@
                 "lang": "en",
                 "newsfeed": [
                     {
-                        "headline_original": "clock.en.json 3: Colombia vows to put nature at the heart of global environmental negotiations",
+                        "headline_original": "clock.en.json 4: Colombia vows to put nature at the heart of global environmental negotiations",
                         "date": "2024-02-23T14:48:23+00:00",
-                        "headline": "clock.en.json 3: Colombia vows to put nature at the heart of global environmental negotiations",
+                        "headline": "clock.en.json 4: Colombia vows to put nature at the heart of global environmental negotiations",
                         "summary": "",
                         "source": "The Guardian",
                         "link": "https://www.theguardian.com/environment/2024/feb/23/colombia-names-cali-as-host-city-cop16-biodiversity-summit-aoe "
