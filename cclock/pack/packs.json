@@ -21,21 +21,21 @@
       "url": "https://waveyd.github.io/cclock/pack/v8.25bdcdd57eb39c95a4bf453e400bb4e8.pk",
       "hash": "25bdcdd57eb39c95a4bf453e400bb4e8",
       "published": "2024-03-07T15:35:14Z",
-      "enabled": true
+      "enabled": false
     },
 
     "v9": {
       "url": "https://waveyd.github.io/cclock/pack/v9.56d43bc9dcb3b2b9c4a12285a7c9e8c1.pk",
       "hash": "56d43bc9dcb3b2b9c4a12285a7c9e8c1",
       "published": "2024-03-08T14:28:15Z",
-      "enabled": true
+      "enabled": false
     },
 
     "v10-v7": {
       "url": "https://waveyd.github.io/cclock/pack/v10-v7.5f8b85dc92ad1bf8c76a26df9783508b.pk",
       "hash": "5f8b85dc92ad1bf8c76a26df9783508b",
       "published": "2024-03-19T13:06:28Z",
-      "enabled": true
+      "enabled": false
     }
 
   }
