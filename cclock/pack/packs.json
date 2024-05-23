@@ -1,4 +1,4 @@
-
+{
   "name": "Action Clock by climateclock.world",
   "updated": "2022-10-25T13:15:00Z",
   "packs": {
@@ -32,7 +32,7 @@
     },
 
     "v10-v7": {
-      "hash": "5f8b85dc92ad1bf8c76a26df9783508b",
+      "url": "https://waveyd.github.io/cclock/pack/v10-v7.5f8b85dc92ad1bf8c76a26df9783508b.pk",
       "published": "2024-03-19T13:06:28Z",
       "enabled": true
     }
